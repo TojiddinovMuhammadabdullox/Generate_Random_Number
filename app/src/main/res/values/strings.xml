@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomNumberCreator_006</string>
+    <array name="initial">
+        <item>1</item>
+        <item>1000</item>
+    </array>
+</resources>
